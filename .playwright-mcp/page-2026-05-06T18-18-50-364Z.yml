@@ -1,0 +1,141 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e52]:
+            - generic [ref=e55]: Create a pricing card component with a title, price, list of features, and a call-to-action button
+            - img [ref=e58]
+          - generic [ref=e79]:
+            - img [ref=e82]
+            - generic [ref=e87]:
+              - generic [ref=e90]: str_replace_editor
+              - separator [ref=e91]
+              - generic [ref=e94]: str_replace_editor
+              - separator [ref=e95]
+              - generic [ref=e96]:
+                - paragraph [ref=e97]:
+                  - text: Done! Created a reusable
+                  - code [ref=e585]: PricingCard
+                  - text: "component with:"
+                - list [ref=e99]:
+                  - listitem [ref=e100]: Title, price, and period
+                  - listitem [ref=e101]: Feature list with checkmark icons
+                  - listitem [ref=e102]: Customizable CTA button with click handler
+                  - listitem [ref=e103]: Clean styling with Tailwind CSS
+                - paragraph [ref=e104]: The App.jsx shows an example usage with sample data.
+          - generic [ref=e563]:
+            - generic [ref=e566]: Create a pricing card component with a title, price, list of features, and a call-to-action button
+            - img [ref=e569]
+          - generic [ref=e586]:
+            - img [ref=e589]
+            - generic [ref=e594]:
+              - generic [ref=e597]: str_replace_editor
+              - separator [ref=e598]
+              - generic [ref=e601]: str_replace_editor
+              - separator [ref=e602]
+              - generic [ref=e603]:
+                - paragraph [ref=e604]: "Done! Redesigned the pricing card with:"
+                - list [ref=e605]:
+                  - listitem [ref=e606]:
+                    - strong [ref=e607]: Dark slate background
+                    - text: with gradient accents (violet & cyan)
+                  - listitem [ref=e608]:
+                    - strong [ref=e609]: Bold typography
+                    - text: — large black titles and prices
+                  - listitem [ref=e610]:
+                    - strong [ref=e611]: Highlighted variant
+                    - text: with warm amber/orange for "Most Popular"
+                  - listitem [ref=e612]:
+                    - strong [ref=e613]: Gradient buttons
+                    - text: with uppercase tracking
+                  - listitem [ref=e614]:
+                    - strong [ref=e615]: Accent top border
+                    - text: and visual hierarchy
+                  - listitem [ref=e616]:
+                    - strong [ref=e617]: Three-card layout
+                    - text: showing different tiers
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e559]:
+        - generic [ref=f3e4]:
+          - generic [ref=f3e5]:
+            - heading "Starter" [level=2] [ref=f3e7]
+            - generic [ref=f3e8]: $19/month
+            - list [ref=f3e9]:
+              - listitem [ref=f3e10]:
+                - img [ref=f3e11]
+                - generic [ref=f3e13]: Up to 10 projects
+              - listitem [ref=f3e14]:
+                - img [ref=f3e15]
+                - generic [ref=f3e17]: Basic analytics
+              - listitem [ref=f3e18]:
+                - img [ref=f3e19]
+                - generic [ref=f3e21]: Email support
+              - listitem [ref=f3e22]:
+                - img [ref=f3e23]
+                - generic [ref=f3e25]: Community access
+            - button "Start Free" [ref=f3e26] [cursor=pointer]
+          - generic [ref=f3e27]:
+            - generic [ref=f3e29]: Most Popular
+            - heading "Professional" [level=2] [ref=f3e30]
+            - generic [ref=f3e31]: $59/month
+            - list [ref=f3e32]:
+              - listitem [ref=f3e33]:
+                - img [ref=f3e34]
+                - generic [ref=f3e36]: Unlimited projects
+              - listitem [ref=f3e37]:
+                - img [ref=f3e38]
+                - generic [ref=f3e40]: Advanced analytics
+              - listitem [ref=f3e41]:
+                - img [ref=f3e42]
+                - generic [ref=f3e44]: Priority support
+              - listitem [ref=f3e45]:
+                - img [ref=f3e46]
+                - generic [ref=f3e48]: Custom integrations
+              - listitem [ref=f3e49]:
+                - img [ref=f3e50]
+                - generic [ref=f3e52]: Team collaboration
+              - listitem [ref=f3e53]:
+                - img [ref=f3e54]
+                - generic [ref=f3e56]: API access
+            - button "Get Started" [ref=f3e57] [cursor=pointer]
+          - generic [ref=f3e58]:
+            - heading "Enterprise" [level=2] [ref=f3e60]
+            - generic [ref=f3e61]: $199/month
+            - list [ref=f3e62]:
+              - listitem [ref=f3e63]:
+                - img [ref=f3e64]
+                - generic [ref=f3e66]: Everything in Pro
+              - listitem [ref=f3e67]:
+                - img [ref=f3e68]
+                - generic [ref=f3e70]: Dedicated support
+              - listitem [ref=f3e71]:
+                - img [ref=f3e72]
+                - generic [ref=f3e74]: Custom contracts
+              - listitem [ref=f3e75]:
+                - img [ref=f3e76]
+                - generic [ref=f3e78]: SLA guarantee
+              - listitem [ref=f3e79]:
+                - img [ref=f3e80]
+                - generic [ref=f3e82]: Advanced security
+              - listitem [ref=f3e83]:
+                - img [ref=f3e84]
+                - generic [ref=f3e86]: White-label options
+            - button "Contact Sales" [ref=f3e87] [cursor=pointer]
+  - alert [ref=e51]
+  - generic [ref=e369]:
+    - alert
+    - alert
